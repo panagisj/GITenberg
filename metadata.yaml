@@ -1,0 +1,27 @@
+_repo: The-Man-bos-of-Mindan-oMemoirs-of-the-National-Academy-of-Sciences-Volume-XXIII-First-Memoir_18607
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garvan, John M.
+    gutenberg_agent_id: '8143'
+    url: http://www.gutenberg.org/2009/agents/8143
+description: ''
+gutenberg_issued: '2006-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Ethnology -- Philippines -- Mindanao Island'
+- !lcc 'DS'
+title: 'The Manóbos of Mindanáo
+
+  Memoirs of the National Academy of Sciences, Volume XXIII, First Memoir'
+url: http://www.gutenberg.org/ebooks/18607
